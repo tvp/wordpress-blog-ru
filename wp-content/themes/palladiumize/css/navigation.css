@@ -1,0 +1,131 @@
+
+
+/* = navigation.css
+--------------------------------------------------- */
+
+
+/* = Layout
+--------------------------------------------------- */
+
+div#menubar #menubar-pad {
+	width: 960px;
+	height: 50px;
+	margin: 0 auto;
+	padding: 5px 0 0 0;
+}
+div#menubar h3 {
+	display: none;
+}
+div#menubar ul {
+	display: block;
+	height: 50px;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+div#menubar ul li {
+	display: block;
+	margin: 0;
+	padding: 0;
+	float: left;
+	height: 50px;
+}
+div#menubar ul ul {
+	position: absolute;
+	display: none;
+	width: 180px;
+	height: auto;
+	float: none;
+	margin: -10px 0 0 0;
+	padding: 10px 0;
+	z-index: 9999999;
+}
+div#menubar ul li a {
+	display: block;
+	position: relative;
+	margin: 0;
+	padding: 0 20px;
+	height: 47px;
+}
+
+div#menubar ul li:hover ul,
+div#menubar ul li.hover ul {
+	display: block;
+	z-index: 999999;
+	float: none;
+}
+div#menubar ul ul li {
+	padding: 0;
+	margin: 0;
+	float: none;
+	width: auto;
+	height: auto;
+}
+div#menubar ul ul li a {
+	float: none;
+	width: auto;
+	height: auto;
+	padding: 5px 20px;
+}
+div#menubar ul ul ul {
+	margin: -38px 0 0 180px;
+}
+
+
+/* Colors and Images
+-----------------------------------------*/
+
+div#menubar {
+	background: transparent url('../images/bg-menubar.png') left top repeat-x;
+}
+div#menubar ul ul {
+	background: #fff none;
+}
+div#menubar ul li a {
+	color: #999;
+}
+div#menubar ul li:hover a,
+div#menubar ul li.hover a,
+div#menubar ul li.current-menu-item a,
+div#menubar ul li.current_page_item a {
+	color: #c66;
+}
+div#menubar ul li:hover ul li a,
+div#menubar ul li.hover ul li a {
+	color: #999;
+}
+div#menubar ul li:hover ul li:hover a,
+div#menubar ul li.hover ul li.hover a,
+div#menubar ul li:hover ul li.current-menu-item a,
+div#menubar ul li.hover ul li.current-menu-item a,
+div#menubar ul li:hover ul li.current_page_item a,
+div#menubar ul li.hover ul li.current_page_item a {
+	color: #c66;
+}
+div#menubar ul li:hover ul li:hover ul li a,
+div#menubar ul li.hover ul li.hover ul li a {
+	color: #999;
+}
+div#menubar ul li:hover ul li:hover ul li:hover a,
+div#menubar ul li.hover ul li.hover ul li.hover a,
+div#menubar ul li:hover ul li:hover ul li.current-menu-item a,
+div#menubar ul li.hover ul li.hover ul li.current-menu-item a,
+div#menubar ul li:hover ul li:hover ul li.current_page_item a,
+div#menubar ul li.hover ul li.hover ul li.current_page_item a {
+	color: #c66
+}
+
+
+/* Typography
+-----------------------------------------*/
+
+div#menubar ul li {
+	font: bold 12px/50px 'Adelle Basic', serif;
+	text-transform: uppercase;
+}
+div#menubar ul li a {
+	text-decoration: none;
+}
+div#menubar ul ul li {
+	font: normal 12px/18px 'Adelle Basic', serif;
+}

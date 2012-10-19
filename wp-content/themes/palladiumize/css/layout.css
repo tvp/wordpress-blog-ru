@@ -1,0 +1,43 @@
+
+
+/* = layout.css
+--------------------------------------------------- */
+
+
+/* = Container
+--------------------------------------------------- */
+
+div#container {
+
+}
+
+
+/* = Columnization
+--------------------------------------------------- */
+
+div#body {
+	width: 960px;
+	margin: 0 auto;
+	padding: 85px 0 40px 0;
+	background: transparent url('../images/bg-body.png') left top repeat-x;
+}
+div#body #body-pad {
+	background: transparent url('../images/bg-body-pad.png') 588px 0px repeat-y;
+}
+div#body div#content {
+	width: 550px;
+	margin: 0;
+	float: left;
+	position: relative;
+}
+div#body div#sidebar {
+	width: 330px;
+	padding: 10px 0 0 0;
+	float: right;
+}
+
+.home div#body #body-pad {
+	width: 960px;
+	padding: 0;
+	margin: 0 auto;
+}

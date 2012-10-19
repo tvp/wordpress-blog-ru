@@ -1,0 +1,35 @@
+
+
+/* = pagination.css
+--------------------------------------------------- */
+
+div.pagination span,
+div.pagination a {
+	display: block;
+	float: left;
+	height: 26px;
+	margin: 0 10px 0 0;
+	padding: 0 10px;
+	font: normal 10px/26px 'Lucida Grande', 'Lucida Sans', serif;
+	text-decoration: none;
+	color: #930;
+	background: #fff none;
+	border: 1px solid #999;
+}
+
+div.pagination span.pages {
+	color: #999;
+}
+div.pagination span.pages span.n {
+	display: inline;
+	color: #999;
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+	float: none;
+}
+div.pagination span.current, div.pagination a:hover, div.pagination a:active {
+	color: #930;
+	background: #f2f2f2 none;
+	border: 1px solid #999;
+}

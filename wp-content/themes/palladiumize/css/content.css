@@ -1,0 +1,347 @@
+
+
+/* = content.css
+--------------------------------------------------- */
+
+
+/* = Content Group
+--------------------------------------------------- */
+
+.content-title {
+	margin: 0;
+	padding: 0 0 30px 0;
+	text-align: center;
+}
+.content-title h1,
+.content-title h2 {
+	display: block;
+	padding: 0;
+	margin: 0;
+	color: #333;
+	font: bold 32px/38px 'Adelle Basic', serif;
+}
+
+
+/* = Post
+--------------------------------------------------- */
+
+.hentry {
+	
+}
+.hentry .title {
+	margin: 0;
+	padding: 0 0 20px 0;
+}
+.hentry .title h1,
+.hentry .title h2 {
+	display: block;
+	margin: 0;
+	padding: 0;
+	color: #000;
+	font: bold 24px/28px 'Droid Serif', serif;
+}
+.page .content {
+	padding: 0;
+}
+.not-found .content {
+	padding: 0;
+}
+
+
+/* = Posts Inside Content Group
+--------------------------------------------------- */
+
+.content-group .post-group {
+	margin: 0 0 1px 0;
+}
+.content-group .hentry {
+	overflow: hidden;
+	position: relative;
+	background: transparent url('../images/bg-hentry-group.png') 1px bottom repeat-x;
+	padding: 0 0 24px 0;
+	margin: 0 0 20px 0;
+}
+.content-group .hentry .thumbnail {
+	float: left;
+}
+.content-group .hentry .thumbnail img {
+	border: 1px solid #bfbcb8;
+	padding: 0;
+}
+.content-group .hentry .title {
+	margin: 0 0 12px 0;
+	padding: 0;
+}
+.content-group .hentry .title h2,
+.content-group .hentry .title h2 a {
+	margin: 0;
+	padding: 0;
+	font: bold 24px/28px 'Droid Serif', serif;
+}
+.content-group .hentry .meta {
+	height: 24px;
+	margin: 0 0 12px 0;
+}
+.content-group .hentry .meta p {
+	display: block;
+	margin: 0;
+	padding: 0;
+	height: 24px;
+	font: normal 10px/24px Arial, sans-serif;
+}
+.content-group .hentry .meta p span.date {
+	line-height: 24px;
+	display: block;
+	float: left;
+	padding: 0 10px;
+	color: #fff;
+	background: #09c;
+}
+.content-group .hentry .excerpt {
+	display: block;
+	padding: 0;
+	margin: 0 0 10px 145px;
+}
+.content-group .hentry .excerpt p {
+	display: block;
+	padding: 0;
+	margin: 0 0 12px 0;
+}
+.content-group .hentry .excerpt ul {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+.content-group .hentry .excerpt ul li {
+	display: block;
+	margin: 0 10px 0 0;
+	padding: 0;
+	float: left;
+}
+.content-group .hentry .excerpt ul li.facebook {
+	margin-top: 1px;
+}
+.content-group .hentry .excerpt ul li a {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+.content-group .not-found {
+	height: auto;
+}
+.content-group .not-found .title {
+	margin: 0 0 10px 0;
+}
+.content-single .hentry .title h1 {
+	font: bold 32px/38px 'Adelle Basic', serif;
+}
+.content-index .content-title {
+	display: none;
+}
+.content-singular .content {
+	overflow: hidden;
+}
+
+
+/* Post Details
+-----------------------------------------*/
+
+.content-single .hentry .post-box {
+	padding: 0;
+	margin: 0 0 20px 0;
+}
+.content-single .hentry .post-box .title {
+	padding: 5px 0;
+	margin: 0 0 10px 0;
+	border-top: 0 none;
+	background: transparent none;
+	border-bottom: 1px dashed #ccc;
+}
+.content-single .hentry .post-box .title h2 {
+	margin: 0;
+	font-size: 24px;
+	line-height: 30px;
+}
+.content-single .hentry .post-box .title p {
+	margin: 0;
+	color: #666;
+	font-size: 10px;
+	line-height: 14px;
+}
+.content-single .hentry .post-box-share .interior ul {
+	display: block;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	height: 32px;
+}
+.content-single .hentry .post-box-share .interior ul li {
+	display: block;
+	margin: 0 15px 0 0;
+	padding: 0;
+	float: left;
+}
+.content-single .hentry .post-box-share .interior ul li a {
+	display: block;
+	float: left;
+	border: 0 none;
+}
+.content-single .hentry .post-box-share .interior ul li a img {
+	border: 0 none;
+	padding: 0;
+}
+.content-single .hentry .post-box-related .interior {
+	overflow: hidden;
+}
+.content-single .hentry .post-box-related .interior img {
+	padding: 0;
+	border: 0 none;
+	width: 136px;
+	height: 70px;
+}
+.content-single .hentry .post-box-related .interior ol {
+	display: block;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	width: 680px;
+}
+.content-single .hentry .post-box-related .interior ol li {
+	display: block;
+	width: 136px;
+	margin: 0 15px 0 0;
+	padding: 0;
+	float: left;
+}
+
+
+/* Comments
+-----------------------------------------*/
+
+ol.comments-list {
+	display: block;
+	list-style: none;
+	margin: 15px 0 0 0;
+	padding: 0;
+}
+ol.comments-list li.comment {
+	display: block;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+ol.comments-list li.comment ul.children {
+	margin: 0;
+	padding: 0 0 0 80px
+}
+div.comment {
+	border: 1px solid #bfbfbf;
+	background: transparent url('../images/bd-comment-vertical.gif') 171px top repeat-y;
+	margin: 0 0 10px 0;
+	padding: 0 10px;
+}
+div.comment .comment-author {
+	width: 150px;
+	float: left;
+	font: normal 12px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+div.comment .comment-author .author {
+	font-weight: bold;
+}
+div.comment .comment-author .author a {
+	font-weight: bold;
+}
+div.comment .comment-author .comment-avatar {
+	margin: 0 10px 0 0;
+	float: left;
+}
+div.comment .comment-author .comment-avatar img.avatar {
+	border: 2px solid #bfbfbf;
+	padding: 1px;
+}
+div.comment .comment-author .comment-meta .author {
+	color: #666;
+}
+div.comment .comment-author .comment-meta .time {
+	color: #999;
+	 font: normal 10px/14px Helvetica, Arial, sans-serif;
+}
+div.comment .comment-author span {
+	display: block;
+}
+div.comment .comment-details {
+	margin: 0 0 0 163px;
+	padding: 0 0 10px 10px;
+	min-height: 100px;
+}
+div.comment .comment-actions {
+	padding: 4px 0;
+	text-align: right;
+	font: normal 10px/18px Helvetica, Arial, sans-serif;
+}
+ol.trackbacks-list {
+	margin: 0 0 0 3em;
+	padding: 0;
+}
+
+
+/* Comment Form
+-----------------------------------------*/
+
+div#reply label {
+	display: block;
+	padding: 0 0 3px 6px;
+}
+div#reply small {
+	color: #b7b7b7;
+}
+div#reply input {
+	border: 1px solid #ddd;
+	padding: 5px;
+	color: #000;
+	background: #fff none;
+}
+div#reply textarea {
+	border: 1px solid #ddd;
+	padding: 5px;
+	width: 538px;
+	color: #000;
+	background: #fff none;
+}
+div#reply button {
+	border: 0 none;
+	margin: 0;
+	padding: 0;
+	width: 99px;
+	height: 29px;
+	cursor: pointer;
+	background: transparent url('../images/button-comments-submit.png') left top no-repeat;
+}
+div#reply button span {
+	display: none;
+}
+div#reply .comment-submit {
+	text-align: right;
+}
+div#reply .input {
+	display: block;
+	margin: 0 0 10px 0;
+}
+div#reply .input-small {
+	width: auto;
+}
+div#reply .input-small input {
+	width: 255px;
+}
+div#reply .input-name {
+	float: left;
+}
+div#reply .input-email {
+	float: right;
+}
+div#reply .input-website {
+	clear: both;
+}
+div#reply .input-website input {
+	width: 538px;
+}

@@ -1,0 +1,85 @@
+
+
+/* = header.css
+--------------------------------------------------- */
+
+
+/* = Header, Blog Title and Slogan.
+--------------------------------------------------- */
+
+div#header {
+	border-top: 10px solid #2a2a2a;
+}
+div#header #header-pad {
+	width: 960px;
+	height: 127px;
+	margin: 0 auto;
+}
+div#header h3 {
+	display: none;
+}
+div#header .box-masthead {
+	float: left;
+}
+div#header .title {
+	display: block;
+	margin: 0;
+}
+div#header .title a {
+	display: block;
+	width: 540px;
+	height: 127px;
+	margin: 0;
+	text-indent: -999999px;
+	outline: none;
+	background: transparent url('../images/logo.png') left top no-repeat;
+	text-decoration: none;
+}
+div#header .description {
+	display: none;
+}
+
+
+/* = Social Networking
+--------------------------------------------------- */
+
+div#header .box-socialnet {
+	float: right;
+	margin: 42px 0 0 0;
+}
+div#header .box-socialnet ul {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+div#header .box-socialnet ul li {
+	display: block;
+	float: left;
+	width: 90px;
+	height: 32px;
+	margin: 0 0 0 20px;
+	padding: 0;
+	border-bottom: 0 none;
+}
+div#header .box-socialnet ul li a {
+	display: block;
+	height: 32px;
+	margin: 0;
+	padding: 0 0 0 38px;
+	font: normal 10px/16px 'Lucida Grande', 'Lucida Sans';
+	color: #333;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+div#header .box-socialnet ul li a:hover {
+	color: #933;
+}
+div#header .box-socialnet ul li.facebook {
+	background: transparent url('../images/icon-sn-facebook.png') left top no-repeat;
+}
+div#header .box-socialnet ul li.rss {
+	background: transparent url('../images/icon-sn-rss.png') left top no-repeat;
+}
+div#header .box-socialnet ul li.twitter {
+	background: transparent url('../images/icon-sn-twitter.png') left top no-repeat;
+}

@@ -1,0 +1,123 @@
+
+
+/* = fonts.css
+--------------------------------------------------- */
+
+
+/* = Adelle Basic
+--------------------------------------------------- */
+
+/* = Bold
+-----------------------------------------*/
+
+@font-face {
+	font-family: 'Adelle Basic';
+	src: url('../fonts/adellebasic-bold.eot');
+	font-style: normal;
+	font-weight: bold;
+}
+@font-face {
+	font-family: 'Adelle Basic';
+	src: url('../fonts/adellebasic-bold.eot?iefix') format('eot'),
+		url('../fonts/adellebasic-bold.woff') format('woff'),
+		url('../fonts/adellebasic-bold.ttf') format('truetype'),
+		url('../fonts/adellebasic-bold.svg#webfont8CVI5UQE') format('svg');
+	font-style: normal;
+	font-weight: bold;
+}
+
+
+/* = Bold and Italic
+-----------------------------------------*/
+
+@font-face {
+	font-family: 'Adelle Basic';
+	src: url('../fonts/adellebasic-bold-italic.eot');
+	font-style: italic;
+	font-weight: bold;
+}
+@font-face {
+	font-family: 'Adelle Basic';
+	src: url('../fonts/adellebasic-bold-italic.eot?iefix') format('eot'),
+		url('../fonts/adellebasic-bold-italic.woff') format('woff'),
+		url('../fonts/adellebasic-bold-italic.ttf') format('truetype'),
+		url('../fonts/adellebasic-bold-italic.svg#webfontS6rb3FuL') format('svg');
+	font-style: italic;
+	font-weight: bold;
+}
+
+
+/* = Droid Serif
+--------------------------------------------------- */
+
+/* = Bold Face
+-----------------------------------------*/
+@font-face {
+	font-family: 'Droid Serif';
+	src: url('../fonts/droid-serif-bold.eot');
+	font-style: normal;
+	font-weight: 700;
+}
+@font-face {
+	font-family: 'Droid Serif';
+	src: url(//:) format('no404'),
+		url('../fonts/droid-serif-bold.woff') format('woff'),
+		url('../fonts/droid-serif-bold.ttf') format('truetype'),
+		url('../fonts/droid-serif-bold.svg#webfont9osoc6av') format('svg');
+	font-style: normal;
+	font-weight: bold;
+}
+
+/* = Italic Face
+-----------------------------------------*/
+@font-face {
+	font-family: 'Droid Serif';
+	src: url('../fonts/droid-serif-italic.eot');
+	font-style: italic;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'Droid Serif';
+	src: url(//:) format('no404'),
+		url('../fonts/droid-serif-italic.woff') format('woff'),
+		url('../fonts/droid-serif-italic.ttf') format('truetype'),
+		url('../fonts/droid-serif-italic.svg#webfontFBW3OdBt') format('svg');
+	font-style: italic;
+	font-weight: normal;
+}
+
+/* = Bold Italic Face
+-----------------------------------------*/
+@font-face {
+	font-family: 'Droid Serif';
+	src: url('../fonts/droid-serif-bolditalic.eot');
+	font-style: italic;
+	font-weight: 700;
+}
+@font-face {
+	font-family: 'Droid Serif';
+	src: url(//:) format('no404'),
+		url('../fonts/droid-serif-bolditalic.woff') format('woff'),
+		url('../fonts/droid-serif-bolditalic.ttf') format('truetype'),
+		url('../fonts/droid-serif-bolditalic.svg#webfontz4CkxgA7') format('svg');
+	font-style: italic;
+	font-weight: bold;
+}
+
+/* = Regular
+-----------------------------------------*/
+@font-face {
+	font-family: 'Droid Serif';
+	src: url('../fonts/droid-serif-regular.eot');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'Droid Serif';
+	src: url(//:) format('no404'),
+		url('../fonts/droid-serif-regular.woff') format('woff'),
+		url('../fonts/droid-serif-regular.ttf') format('truetype'),
+		url('../fonts/droid-serif-regular.svg#webfontu0Jh6Cui') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}

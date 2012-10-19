@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Auto Attachments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-15 15:18+0200\n"
+"PO-Revision-Date: 2012-06-15 15:18+0200\n"
+"Last-Translator: Serkan Algur <info@kaisercrazy.com>\n"
+"Language-Team: kaisercrazy <info@kaisercrazy>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: Turkey\n"
+"X-Poedit-SearchPath-0: F:\\Plugins\\auto-attachments\\trunk\n"
+
+#: F:\Plugins\auto-attachments\trunk/auto-attachments.php:210
+msgid "Auto Attachments"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/auto-attachments.php:222
+msgid "Please Fill Audio Header Text Area."
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/auto-attachments.php:232
+msgid "Please Fill Video Header Text Area."
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/auto-attachments.php:291
+msgid "Options saved."
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:15
+msgid "Auto Attachments Settings Page"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:23
+msgid "Contributor"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:26
+msgid "Personal Blog (Turkish)"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:28
+msgid "WpFunC (functions share)"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:30
+msgid "Facebook"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:33
+msgid "Friendfeed"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:35
+msgid "Email Me"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:42
+msgid "Preview"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:105
+msgid "<strong>Header Text Settings</strong>"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:110
+msgid "You can now change <strong>Header Texts</strong> from here. You can localize to your language :)"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:113
+msgid "(<strong>*</strong>) <strong sytle=\"color:red\">Highly Required</strong>"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:116
+msgid "Add Header Text for Mp3 Files:"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:122
+msgid "Add Header Text for Video Files:"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:128
+msgid "Title Before Attachments:"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:134
+msgid "HTML Accepted"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:137
+msgid "Show this title?"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:140
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:146
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:167
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:173
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:186
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:192
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:214
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:220
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:229
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:235
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:255
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:261
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:271
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:277
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:310
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:316
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:329
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:335
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:348
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:354
+msgid "checked=\"checked\""
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:143
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:170
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:189
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:217
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:232
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:258
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:274
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:313
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:332
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:351
+msgid "Yes"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:149
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:176
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:195
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:223
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:238
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:264
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:280
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:319
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:338
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:357
+msgid "No"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:155
+msgid "<strong>Page & Homepage Settings</strong>"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:160
+msgid "Show on Pages"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:163
+msgid "If you set this settings \"Yes\", attachments shown on pages and single pages. If not attachments shown only in posts"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:179
+msgid "Show on Homepage"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:182
+msgid "If you set this settings \"Yes\", attachments shown on homepage and single pages. If not attachments shown only in posts"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:200
+msgid "<strong>Video & Audio Header Settings</strong>"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:205
+msgid "Show Video And Audio Headers?"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:208
+msgid "You can decide to show headers"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:211
+msgid "Mp3 Headers"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:226
+msgid "Video Headers"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:243
+msgid "<strong>Gallery Settings</strong>"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:248
+msgid "Show Gallery?"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:251
+msgid "You can use gallery for show your image attachments without any plugin or else :) Also if you use colorbox or any other gallery lihtbox plugin yopu can disable colorbox usage."
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:267
+msgid "Use Colorbox?"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:283
+msgid "Gallery Thumb Size?"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:288
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:365
+msgid "Width"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:293
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:370
+msgid "Height"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:298
+msgid "<strong>Misc. Settings</strong>"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:303
+msgid "Allow Rar Upload"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:306
+msgid "If you select this checkbox rar file upload will be enable. If not rar file upload will not be available"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:322
+msgid "List View Of Files"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:325
+msgid "If you activate this option your downloadable files seen in a list view."
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:341
+msgid "Open files in new window?"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:344
+msgid "Do you want to open files in new window?."
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:360
+msgid "File Icon Size?"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:373
+msgid "Folder Permissions"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:379
+msgid "Cache Folder Permissions: "
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:389
+msgid "Jw Player Skin"
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:397
+msgid "You can select JW Player Skin."
+msgstr ""
+
+#: F:\Plugins\auto-attachments\trunk/admin/admin-area.php:435
+msgid "Save Changes"
+msgstr ""
+

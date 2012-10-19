@@ -1,0 +1,234 @@
+# This file is distributed under the same license as the Auto Attachments package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Auto Attachments 0.5.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/auto-attachments\n"
+"POT-Creation-Date: 2012-03-06 11:33:38+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-03-13 13:49+0200\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-Country: BELARUS\n"
+"Language-Team: Web Geeks\n"
+"Last-Translator: Serkan Algur <info@kaisercrazy.com>\n"
+
+#: admin/admin-area.php:12
+msgid "Auto Attachments Settings Page"
+msgstr "Pagina Setări auto ataşări"
+
+#: admin/admin-area.php:16
+msgid "Contributor"
+msgstr "Contribuitor"
+
+#: admin/admin-area.php:17
+msgid "Personal Blog (Turkish)"
+msgstr "Blog-ul personal (turcă)"
+
+#: admin/admin-area.php:17
+msgid "WpFunC (functions share)"
+msgstr "WpFunC (cota de funcţii)"
+
+#: admin/admin-area.php:17
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/admin-area.php:18
+msgid "Friendfeed"
+msgstr "FriendFeed"
+
+#: admin/admin-area.php:18
+msgid "Email Me"
+msgstr "Email-mă"
+
+#: admin/admin-area.php:23
+msgid "Preview"
+msgstr "Previzualizare"
+
+#: admin/admin-area.php:51
+msgid "<strong>Header Text Settings</strong>"
+msgstr "<strong>Setările de Text antet</strong>"
+
+#: admin/admin-area.php:54
+msgid "You can now change <strong>Header Texts</strong> from here. You can localize to your language :)"
+msgstr "Puteţi schimba acum Texte antet <strong>Texte antet </strong> de aici. Aveţi posibilitatea să localizeze în limba dvs. :)"
+
+#: admin/admin-area.php:55
+msgid "(<strong>*</strong>) <strong sytle=\"color:red\">Highly Required</strong>"
+msgstr "(<strong>*</ strong>) <strong sytle=\"color:red\">Foarte necesara </strong>"
+
+#: admin/admin-area.php:56
+msgid "Add Header Text for Mp3 Files:"
+msgstr "Adăugaţi Text antet pentru fişiere Mp3:"
+
+#: admin/admin-area.php:58
+msgid "Add Header Text for Video Files:"
+msgstr "Adăugaţi Text antet pentru fişierele Video:"
+
+#: admin/admin-area.php:62
+msgid "<strong>Page & Homepage Settings</strong>"
+msgstr "<strong>Setările de pagină & pagina de start</strong>"
+
+#: admin/admin-area.php:65
+msgid "Show on Pages"
+msgstr "Arată pe pagini"
+
+#: admin/admin-area.php:66
+msgid "If you set this settings \"Yes\", attachments shown on pages and single pages. If not attachments shown only in posts"
+msgstr "Dacă setaţi aceste setări \"Da\", ataşamentele indicat pe pagini şi pagini individuale. Dacă nu echipament indicat numai în posturi"
+
+#: admin/admin-area.php:67
+#: admin/admin-area.php:70
+#: admin/admin-area.php:78
+#: admin/admin-area.php:79
+#: admin/admin-area.php:87
+#: admin/admin-area.php:89
+#: admin/admin-area.php:100
+#: admin/admin-area.php:103
+msgid "checked=\"checked\""
+msgstr "checked=\"checked\""
+
+#: admin/admin-area.php:67
+#: admin/admin-area.php:70
+#: admin/admin-area.php:78
+#: admin/admin-area.php:79
+#: admin/admin-area.php:87
+#: admin/admin-area.php:89
+#: admin/admin-area.php:100
+#: admin/admin-area.php:103
+msgid "Yes"
+msgstr "da"
+
+#: admin/admin-area.php:67
+#: admin/admin-area.php:70
+#: admin/admin-area.php:78
+#: admin/admin-area.php:79
+#: admin/admin-area.php:87
+#: admin/admin-area.php:89
+#: admin/admin-area.php:100
+#: admin/admin-area.php:103
+msgid "No"
+msgstr "nu"
+
+#: admin/admin-area.php:68
+msgid "Show on Homepage"
+msgstr "Arată pe pagina de start"
+
+#: admin/admin-area.php:69
+msgid "If you set this settings \"Yes\", attachments shown on homepage and single pages. If not attachments shown only in posts"
+msgstr "Dacă setaţi aceste setări \"Da\", ataşamentele indicat pe pagina de start şi de pagini individuale. Dacă nu echipament indicat numai în posturi"
+
+#: admin/admin-area.php:73
+msgid "<strong>Video & Audio Header Settings</strong>"
+msgstr "<strong>Setările video & Audio antet</strong>"
+
+#: admin/admin-area.php:76
+msgid "Show Video And Audio Headers?"
+msgstr "Afişare Video şi Audio anteturi?"
+
+#: admin/admin-area.php:77
+msgid "You can decide to show headers"
+msgstr "Aveţi posibilitatea să decideţi să arate anteturi"
+
+#: admin/admin-area.php:78
+msgid "Mp3 Headers"
+msgstr "Anteturi mp3"
+
+#: admin/admin-area.php:79
+msgid "Video Headers"
+msgstr "Anteturi video"
+
+#: admin/admin-area.php:82
+msgid "<strong>Gallery Settings</strong>"
+msgstr "<strong>Setări Galerie</strong>"
+
+#: admin/admin-area.php:85
+msgid "Show Gallery?"
+msgstr "Galeria Arată?"
+
+#: admin/admin-area.php:86
+msgid "You can use gallery for show your image attachments without any plugin or else :) Also if you use colorbox or any other gallery lihtbox plugin yopu can disable colorbox usage."
+msgstr "Puteţi folosi galeria pentru a afişa ataşamentele de tip imagine, fără nici un plugin sau altceva :) De asemenea, dacă utilizaţi colorbox sau orice altă galerie lihtbox plugin yopu poate dezactiva colorbox de utilizare."
+
+#: admin/admin-area.php:88
+msgid "Use Colorbox?"
+msgstr "Utilizarea Colorbox?"
+
+#: admin/admin-area.php:90
+msgid "Gallery Thumb Size?"
+msgstr "Galerie degetul mare dimensiune?"
+
+#: admin/admin-area.php:91
+msgid "Width"
+msgstr "Lăţime"
+
+#: admin/admin-area.php:92
+msgid "Height"
+msgstr "Înălţime"
+
+#: admin/admin-area.php:95
+msgid "<strong>Misc. Settings</strong>"
+msgstr "<strong>Diverse setări</strong>"
+
+#: admin/admin-area.php:98
+msgid "Allow Rar Upload"
+msgstr "Permite Rar Upload"
+
+#: admin/admin-area.php:99
+msgid "If you select this checkbox rar file upload will be enable. If not rar file upload will not be available"
+msgstr "Dacă selectaţi acest fişier RAR casetă de încărcare se va permite. Dacă nu fişier RAR de încărcare nu va fi disponibil"
+
+#: admin/admin-area.php:101
+msgid "List View Of Files"
+msgstr "Vizualizarea listă de fişiere"
+
+#: admin/admin-area.php:102
+msgid "If you activate this option your downloadable files seen in a list view."
+msgstr "Dacă activezi această opţiune fişierele descărcate văzut într-o vizualizare listă."
+
+#: admin/admin-area.php:104
+msgid "Jw Player Skin"
+msgstr "JW Player Skin"
+
+#: admin/admin-area.php:106
+msgid "You can select JW Player Skin."
+msgstr "Aveţi posibilitatea să selectaţi JW Player Skin."
+
+#: admin/admin-area.php:124
+msgid "Save Changes"
+msgstr "Salvaţi modificările"
+
+#. #-#-#-#-#  plugin.pot (Auto Attachments 0.5.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: auto-attachments.php:161
+msgid "Auto Attachments"
+msgstr "Auto Attachments"
+
+#: auto-attachments.php:170
+msgid "Please Fill Audio Header Text Area."
+msgstr "Vă rugăm să umple zona Text antet Audio."
+
+#: auto-attachments.php:174
+msgid "Please Fill Video Header Text Area."
+msgstr "Vă rugăm să umple zona Text antet Video."
+
+#: auto-attachments.php:215
+msgid "Options saved."
+msgstr "Opţiuni salvate."
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.kaisercrazy.com/cms-sistemleri/wordpress/0-5-3-yolunda.html"
+msgstr "http://www.kaisercrazy.com/CMS-sistemleri/WordPress/0-5-3-yolunda.html"
+
+#. Description of the plugin/theme
+msgid "This plugin makes your attachments more effective. Supported attachment types are Word, Excel, Pdf, PowerPoint, zip, rar, tar, tar.gz, mp3, flv, mp4"
+msgstr "Acest plugin face ca ataşamentele mai eficient. Tipuri de ataşament sunt Word, Excel, PDF, PowerPoint, zip, rar, gudron, tar.gz, mp3, flv, mp4"
+
+#. Author of the plugin/theme
+msgid "Serkan Algur"
+msgstr "Serkan Algur"
+
+#. Author URI of the plugin/theme
+msgid "http://www.kaisercrazy.com"
+msgstr "http://www.kaisercrazy.com"
+

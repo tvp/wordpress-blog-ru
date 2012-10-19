@@ -1,0 +1,607 @@
+<?xml version="1.0"?>
+<wp_option_tree>
+  <row>
+    <id>1</id>
+    <item_id>general_default</item_id>
+    <item_title>General</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>1</item_sort>
+  </row>
+  <row>
+    <id>2</id>
+    <item_id>logo</item_id>
+    <item_title>Upload your logo</item_title>
+    <item_desc></item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>2</item_sort>
+  </row>
+  <row>
+    <id>3</id>
+    <item_id>favicon</item_id>
+    <item_title>Upload your favicon</item_title>
+    <item_desc></item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>3</item_sort>
+  </row>
+  <row>
+    <id>5</id>
+    <item_id>crumbs</item_id>
+    <item_title>Breadcrumbs</item_title>
+    <item_desc></item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>enable</item_options>
+    <item_sort>4</item_sort>
+  </row>
+  <row>
+    <id>6</id>
+    <item_id>header</item_id>
+    <item_title>Header</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>5</item_sort>
+  </row>
+  <row>
+    <id>57</id>
+    <item_id>headerborderc</item_id>
+    <item_title>Header border top color</item_title>
+    <item_desc></item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>6</item_sort>
+  </row>
+  <row>
+    <id>7</id>
+    <item_id>header_bg_color</item_id>
+    <item_title>Header background color</item_title>
+    <item_desc>Choose background color</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>7</item_sort>
+  </row>
+  <row>
+    <id>8</id>
+    <item_id>header_bg_img</item_id>
+    <item_title>Header background image</item_title>
+    <item_desc></item_desc>
+    <item_type>radio</item_type>
+    <item_options>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,default,none</item_options>
+    <item_sort>8</item_sort>
+  </row>
+  <row>
+    <id>9</id>
+    <item_id>header_phone</item_id>
+    <item_title>Phone Number</item_title>
+    <item_desc>once you enter phone number it will appear, at the right upper side of header</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>9</item_sort>
+  </row>
+  <row>
+    <id>10</id>
+    <item_id>header_mobile</item_id>
+    <item_title>Mobile phone number</item_title>
+    <item_desc></item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>10</item_sort>
+  </row>
+  <row>
+    <id>11</id>
+    <item_id>header_mail</item_id>
+    <item_title>e-mail address</item_title>
+    <item_desc></item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>11</item_sort>
+  </row>
+  <row>
+    <id>12</id>
+    <item_id>lawyernavi</item_id>
+    <item_title>Navigation</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>12</item_sort>
+  </row>
+  <row>
+    <id>13</id>
+    <item_id>nav_f_size</item_id>
+    <item_title>Navigation font size</item_title>
+    <item_desc></item_desc>
+    <item_type>select</item_type>
+    <item_options>12px,13px,14px,15px,16px,17px,18px,19px,20px,21px,22px,23px</item_options>
+    <item_sort>13</item_sort>
+  </row>
+  <row>
+    <id>14</id>
+    <item_id>nav_f_color</item_id>
+    <item_title>Navigation link color</item_title>
+    <item_desc></item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>14</item_sort>
+  </row>
+  <row>
+    <id>15</id>
+    <item_id>nav_f_hover</item_id>
+    <item_title>Navigation hover links color</item_title>
+    <item_desc></item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>15</item_sort>
+  </row>
+  <row>
+    <id>16</id>
+    <item_id>nav_f_shadow</item_id>
+    <item_title>Navigation links text shadow</item_title>
+    <item_desc></item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>16</item_sort>
+  </row>
+  <row>
+    <id>17</id>
+    <item_id>typography</item_id>
+    <item_title>Typography</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>17</item_sort>
+  </row>
+  <row>
+    <id>18</id>
+    <item_id>gfonts</item_id>
+    <item_title>Choose your font</item_title>
+    <item_desc></item_desc>
+    <item_type>select</item_type>
+    <item_options>Amaranth,Cabin,Lato,Marvel,Terminal,Open Sans Condensed,Quicksand,PT Sans Narrow,Ubuntu,Ubuntu Condensed,Yanone Kaffeesatz</item_options>
+    <item_sort>18</item_sort>
+  </row>
+  <row>
+    <id>19</id>
+    <item_id>custom_font</item_id>
+    <item_title>Custom Google font</item_title>
+    <item_desc>If You didn&amp;#039;t find here interesting font, look  for more here &amp;lt;a href=&amp;quot;http://www.google.com/webfonts#HomePlace:home&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Google fonts repository&amp;lt;/a&amp;gt;</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>19</item_sort>
+  </row>
+  <row>
+    <id>20</id>
+    <item_id>custom_font_fam</item_id>
+    <item_title>Custom Google font family</item_title>
+    <item_desc></item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>20</item_sort>
+  </row>
+  <row>
+    <id>21</id>
+    <item_id>main_f</item_id>
+    <item_title>Body font size</item_title>
+    <item_desc>default size - 12px</item_desc>
+    <item_type>select</item_type>
+    <item_options>11px,13px,14px,15px,16px,17px,18px,19px,20px,21px,22px</item_options>
+    <item_sort>21</item_sort>
+  </row>
+  <row>
+    <id>48</id>
+    <item_id>h1</item_id>
+    <item_title>Headings h1</item_title>
+    <item_desc>default size - 27px</item_desc>
+    <item_type>select</item_type>
+    <item_options>18px,19px,20px,21px,22px,23px,24px,25px,26px,27px,28px,29px,30px,31px,32px,33px,34px,35px</item_options>
+    <item_sort>22</item_sort>
+  </row>
+  <row>
+    <id>49</id>
+    <item_id>h2</item_id>
+    <item_title>Headings h2</item_title>
+    <item_desc>default size - 22px</item_desc>
+    <item_type>select</item_type>
+    <item_options>18px,19px,20px,21px,22px,23px,24px,25px,26px,27px,28px,29px,30px,31px,32px</item_options>
+    <item_sort>23</item_sort>
+  </row>
+  <row>
+    <id>50</id>
+    <item_id>h3</item_id>
+    <item_title>Headings h3</item_title>
+    <item_desc>default size - 20px</item_desc>
+    <item_type>select</item_type>
+    <item_options>18px,19px,20px,21px,22px,23px,24px,25px,26px,27px,28px,29px,30px</item_options>
+    <item_sort>24</item_sort>
+  </row>
+  <row>
+    <id>51</id>
+    <item_id>h4</item_id>
+    <item_title>Headings h4</item_title>
+    <item_desc>default size - 18px</item_desc>
+    <item_type>select</item_type>
+    <item_options>18px,19px,20px,21px,22px,23px,24px,25px,26px,27px,28px</item_options>
+    <item_sort>25</item_sort>
+  </row>
+  <row>
+    <id>52</id>
+    <item_id>h5</item_id>
+    <item_title>Headings h5</item_title>
+    <item_desc>default size - 17px</item_desc>
+    <item_type>select</item_type>
+    <item_options>18px,19px,20px,21px,22px,23px,24px,25px,26px,27px</item_options>
+    <item_sort>26</item_sort>
+  </row>
+  <row>
+    <id>53</id>
+    <item_id>h6</item_id>
+    <item_title>Headings h6</item_title>
+    <item_desc>default size - 16px</item_desc>
+    <item_type>select</item_type>
+    <item_options>18px,19px,20px,21px,22px,23px,24px,25px,26px</item_options>
+    <item_sort>27</item_sort>
+  </row>
+  <row>
+    <id>54</id>
+    <item_id>h7</item_id>
+    <item_title>Headings h7</item_title>
+    <item_desc>default size - 15px</item_desc>
+    <item_type>select</item_type>
+    <item_options>18px,19px,20px,21px,22px,23px,24px,25px</item_options>
+    <item_sort>28</item_sort>
+  </row>
+  <row>
+    <id>71</id>
+    <item_id>content_colors</item_id>
+    <item_title>Content colors</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>29</item_sort>
+  </row>
+  <row>
+    <id>70</id>
+    <item_id>accents_color</item_id>
+    <item_title>Theme accents background colors</item_title>
+    <item_desc></item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>30</item_sort>
+  </row>
+  <row>
+    <id>72</id>
+    <item_id>content_link</item_id>
+    <item_title>Content links color</item_title>
+    <item_desc></item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>31</item_sort>
+  </row>
+  <row>
+    <id>73</id>
+    <item_id>content_link_hover</item_id>
+    <item_title>Content links hover color</item_title>
+    <item_desc></item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>32</item_sort>
+  </row>
+  <row>
+    <id>45</id>
+    <item_id>homepage</item_id>
+    <item_title>Homepage</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>33</item_sort>
+  </row>
+  <row>
+    <id>46</id>
+    <item_id>featured_folio</item_id>
+    <item_title>Show featured portfolio items</item_title>
+    <item_desc>Decide which items display on frontpage, You can choose up to 3 items</item_desc>
+    <item_type>custom_posts</item_type>
+    <item_options>portfolio</item_options>
+    <item_sort>34</item_sort>
+  </row>
+  <row>
+    <id>47</id>
+    <item_id>testimonials</item_id>
+    <item_title>Enable Testimonials</item_title>
+    <item_desc></item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>enable</item_options>
+    <item_sort>35</item_sort>
+  </row>
+  <row>
+    <id>22</id>
+    <item_id>create_slides</item_id>
+    <item_title>Slider setup</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>36</item_sort>
+  </row>
+  <row>
+    <id>23</id>
+    <item_id>slides</item_id>
+    <item_title>Create slides</item_title>
+    <item_desc></item_desc>
+    <item_type>slider</item_type>
+    <item_options></item_options>
+    <item_sort>37</item_sort>
+  </row>
+  <row>
+    <id>24</id>
+    <item_id>choose_slider</item_id>
+    <item_title>Choose Your slider</item_title>
+    <item_desc></item_desc>
+    <item_type>select</item_type>
+    <item_options>Flex slider (responsive/fluid),Nivo slider,Carousel slider</item_options>
+    <item_sort>38</item_sort>
+  </row>
+  <row>
+    <id>25</id>
+    <item_id>diapoheading</item_id>
+    <item_title>-- Flex slider options</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>39</item_sort>
+  </row>
+  <row>
+    <id>26</id>
+    <item_id>diapo_slideshow</item_id>
+    <item_title>Auto slideshow</item_title>
+    <item_desc></item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>enable</item_options>
+    <item_sort>40</item_sort>
+  </row>
+  <row>
+    <id>27</id>
+    <item_id>diapo_time</item_id>
+    <item_title>Delay</item_title>
+    <item_desc>How long between slideshow transitions in auto slideshow mode.
+
+Default value - 3000 milliseconds (3s)</item_desc>
+    <item_type>select</item_type>
+    <item_options>4000,4500,5000,5500,6000,6500,7000,7500,8000,8500,9000,9500,10000,11000,12000,15000</item_options>
+    <item_sort>41</item_sort>
+  </row>
+  <row>
+    <id>30</id>
+    <item_id>diapo_commands</item_id>
+    <item_title>Play-pause button</item_title>
+    <item_desc></item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>hide</item_options>
+    <item_sort>42</item_sort>
+  </row>
+  <row>
+    <id>31</id>
+    <item_id>diapo_pagination</item_id>
+    <item_title>Pagination blips/bullets</item_title>
+    <item_desc></item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>disable/hide</item_options>
+    <item_sort>43</item_sort>
+  </row>
+  <row>
+    <id>32</id>
+    <item_id>diapo_arrows</item_id>
+    <item_title>Next&amp;amp;Previous arrows</item_title>
+    <item_desc></item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>disable</item_options>
+    <item_sort>44</item_sort>
+  </row>
+  <row>
+    <id>56</id>
+    <item_id>carouseloptions</item_id>
+    <item_title>-- Carousel slider options</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>45</item_sort>
+  </row>
+  <row>
+    <id>58</id>
+    <item_id>carousel_slideshow</item_id>
+    <item_title>Enable slideshow</item_title>
+    <item_desc>If greater than &amp;#039;0&amp;#039;, time in milliseconds the carousel will wait before automatically rotating.
+
+default value is 0  = automatically slideshow disabled.</item_desc>
+    <item_type>select</item_type>
+    <item_options>0,4000,4500,5000,5500,6000,6500,7000,7500,8000,8500,9000,9500,10000,11000,12000,15000</item_options>
+    <item_sort>46</item_sort>
+  </row>
+  <row>
+    <id>59</id>
+    <item_id>carouselspeed</item_id>
+    <item_title>Carousel rotate speed</item_title>
+    <item_desc>Speed in milliseconds it takes for one rotation to complete.
+
+Default value - 1000 milliseconds (1s)</item_desc>
+    <item_type>select</item_type>
+    <item_options>750,1500,2000,2500,3000,3500,4000,4500,5000,5500,6000,6500,7000,7500</item_options>
+    <item_sort>47</item_sort>
+  </row>
+  <row>
+    <id>60</id>
+    <item_id>carousel_blips</item_id>
+    <item_title>Carousel pagination blips</item_title>
+    <item_desc></item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>disable</item_options>
+    <item_sort>48</item_sort>
+  </row>
+  <row>
+    <id>61</id>
+    <item_id>carousel_arrows</item_id>
+    <item_title>Carousel arrows</item_title>
+    <item_desc></item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>disable</item_options>
+    <item_sort>49</item_sort>
+  </row>
+  <row>
+    <id>37</id>
+    <item_id>carousel_easing</item_id>
+    <item_title>Easing</item_title>
+    <item_desc>The easing effect used to animate the features in the carousel.
+
+For some easing effect choose long &amp;#039;Carousel rotate speed&amp;#039; value.</item_desc>
+    <item_type>select</item_type>
+    <item_options>easeInOutCirc,easeOutElastic,easeInOutElastic,easeInBack,easeOutBack,easeInOutBack,easeOutBounce,easeInOutBounce</item_options>
+    <item_sort>50</item_sort>
+  </row>
+  <row>
+    <id>55</id>
+    <item_id>nivooptions</item_id>
+    <item_title>-- Nivo slider options</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>51</item_sort>
+  </row>
+  <row>
+    <id>62</id>
+    <item_id>nivo_slideshow</item_id>
+    <item_title>Auto slideshow</item_title>
+    <item_desc></item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>enable</item_options>
+    <item_sort>52</item_sort>
+  </row>
+  <row>
+    <id>63</id>
+    <item_id>nivo_time</item_id>
+    <item_title>Slideshow time</item_title>
+    <item_desc>How long between slideshow transitions in auto slideshow mode.
+
+Default value - 3000 milliseconds (3s)</item_desc>
+    <item_type>select</item_type>
+    <item_options>4000,4500,5000,5500,6000,6500,7000,7500,8000,8500,9000,9500,10000,11000,12000,15000</item_options>
+    <item_sort>53</item_sort>
+  </row>
+  <row>
+    <id>28</id>
+    <item_id>nivo_fx</item_id>
+    <item_title>Transition effect</item_title>
+    <item_desc>default value - random</item_desc>
+    <item_type>select</item_type>
+    <item_options>sliceDown,sliceDownLeft,sliceUp,sliceUpLeft,sliceUpDown,sliceUpDownLeft,fold,fade,random,slideInRight,slideInLeft,boxRandom,boxRain,boxRainReverse,boxRainGrow,boxRainGrowReverse</item_options>
+    <item_sort>54</item_sort>
+  </row>
+  <row>
+    <id>33</id>
+    <item_id>nivo_arrows</item_id>
+    <item_title>Next&amp;amp;Previous arrows</item_title>
+    <item_desc></item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>disable</item_options>
+    <item_sort>55</item_sort>
+  </row>
+  <row>
+    <id>34</id>
+    <item_id>nivo_blips</item_id>
+    <item_title>Navigation blips</item_title>
+    <item_desc></item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>disable</item_options>
+    <item_sort>56</item_sort>
+  </row>
+  <row>
+    <id>38</id>
+    <item_id>footer</item_id>
+    <item_title>Footer</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>57</item_sort>
+  </row>
+  <row>
+    <id>39</id>
+    <item_id>footer_bg_color</item_id>
+    <item_title>Footer background color</item_title>
+    <item_desc></item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>58</item_sort>
+  </row>
+  <row>
+    <id>40</id>
+    <item_id>footer_bg_img</item_id>
+    <item_title>Footer background image</item_title>
+    <item_desc></item_desc>
+    <item_type>radio</item_type>
+    <item_options>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,default,none</item_options>
+    <item_sort>59</item_sort>
+  </row>
+  <row>
+    <id>41</id>
+    <item_id>f_l_c</item_id>
+    <item_title>Footer link color</item_title>
+    <item_desc></item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>60</item_sort>
+  </row>
+  <row>
+    <id>42</id>
+    <item_id>f_h_l_c</item_id>
+    <item_title>Footer hover link color</item_title>
+    <item_desc></item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>61</item_sort>
+  </row>
+  <row>
+    <id>67</id>
+    <item_id>copyrights_area</item_id>
+    <item_title>Copyrights area</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>62</item_sort>
+  </row>
+  <row>
+    <id>69</id>
+    <item_id>copybg_color</item_id>
+    <item_title>Background color</item_title>
+    <item_desc></item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>63</item_sort>
+  </row>
+  <row>
+    <id>68</id>
+    <item_id>logo_copy</item_id>
+    <item_title>Upload small logo</item_title>
+    <item_desc></item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>64</item_sort>
+  </row>
+  <row>
+    <id>65</id>
+    <item_id>copy_color</item_id>
+    <item_title>Link color</item_title>
+    <item_desc></item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>65</item_sort>
+  </row>
+  <row>
+    <id>66</id>
+    <item_id>copy_color_hover</item_id>
+    <item_title>Copyrights area link hover color</item_title>
+    <item_desc></item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>66</item_sort>
+  </row>
+</wp_option_tree>

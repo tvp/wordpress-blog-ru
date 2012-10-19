@@ -1,0 +1,253 @@
+
+/* = sidebar.css
+--------------------------------------------------- */
+
+
+/* = Sidebar General Rules
+--------------------------------------------------- */
+
+div#sidebar h2 {
+	display: none;
+}
+div#sidebar .box {
+	font: normal 12px/16px 'Lucida Grande', 'Lucida Sans', sans-serif;
+	margin: 0 0 2em 0;
+	color: #666;
+}
+div#sidebar .box .title {
+	margin: 0 0 0.5em 0;
+}
+div#sidebar .box .title h3 {
+	display: block;
+	padding: 0;
+	margin: 0;
+	color: #000;
+	font: bold 10px/20px 'Adelle Basic', sans-serif;
+	text-transform: uppercase;
+	color: #09c;
+}
+div#sidebar .box ul {
+	display: block;
+	margin: 0.6em 0 1em 0;
+	padding: 0;
+}
+div#sidebar .box ul li {
+	display: block;
+	margin: 0;
+	padding: 5px 0 5px 1.07em;
+	border-bottom: 1px solid #eee;
+}
+div#sidebar .box ul ul {
+	display: block;
+	margin: 5px 0 -6px -1.07em;
+	border-top: 1px solid #eee;
+}
+div#sidebar .box ul ul li {
+	padding: 5px 0 5px 3.07em;
+}
+div#sidebar .box ul ul ul {
+	margin: 5px 0 -6px -3.07em;
+}
+div#sidebar .box ul ul ul li {
+	padding: 5px 0 5px 5.07em;
+}
+div#sidebar .box ul ul ul ul {
+	margin: 5px 0 -6px -5.07em;
+}
+div#sidebar .box ul ul ul ul li {
+	padding: 5px 0 5px 7.07em;
+}
+div#sidebar .box ul ul ul ul ul {
+	margin: 5px 0 -6px -7.07em;
+}
+div#sidebar .box ul ul ul ul ul li {
+	padding: 5px 0 5px 9.07em;
+}
+div#sidebar .box ul ul ul ul ul ul {
+	margin: 5px 0 -6px -9.07em;
+}
+div#sidebar .box ul ul ul ul ul ul li {
+	padding: 5px 0 5px 11.07em;
+}
+
+
+/* = Advertisement
+--------------------------------------------------- */
+
+div#sidebar .box-ads .title {
+	display: none;
+}
+div#sidebar .box-ads .interior {
+	padding: 0;
+}
+div#sidebar .box-ads .interior img {
+	padding: 0;
+	margin: 0;
+	border: 0 none;
+}
+
+
+/* = Search Form
+--------------------------------------------------- */
+
+div#sidebar .box-search form,
+div#sidebar .widget_search form {
+	padding: 10px;
+	background: #f1feff none;
+	height: 31px;
+}
+div#sidebar .box-search p,
+div#sidebar .widget_search p{
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+div#sidebar .box-search label,
+div#sidebar .widget_search label {
+	display: none;
+}
+div#sidebar .box-search input,
+div#sidebar .widget_search input {
+	border: 0 none;
+	width: 188px;
+	margin: 0;
+	padding: 10px 10px 11px 10px;
+	line-height: 12px;
+	float: left;
+	background: transparent url('../images/input-search.png') left top no-repeat;
+	color: #b7b7b7;
+}
+div#sidebar .box-search button,
+div#sidebar .widget_search button {
+	display: block;
+	margin: 0;
+	padding: 0;
+	float: left;
+	width: 102px;
+	height: 31px;
+	border: 0 none;
+	background: transparent url('../images/button-search.png') left top no-repeat;
+}
+div#sidebar .box-search button span,
+div#sidebar .widget_search button span {
+	display: none;
+}
+
+
+/* = Popular Posts
+--------------------------------------------------- */
+
+div#sidebar .box-popular-posts {
+	border: 1px solid #d3d3d3;
+}
+div#sidebar .box-popular-posts .title {
+	padding: 5px 5px 0 5px;
+}
+div#sidebar .box-popular-posts .interior ul {
+	display: block;
+	margin: 0 0 -1px 0;
+	padding: 0;
+	list-style: none;
+}
+div#sidebar .box-popular-posts .interior ul li {
+	min-height: 50px;
+	margin: 0;
+	padding: 5px;
+	border-bottom: 1px solid #d3d3d3;
+}
+div#sidebar .box-popular-posts .interior ul li a {
+	color: #333;
+}
+div#sidebar .box-popular-posts .interior ul li a:hover {
+	color: #c66;
+	text-decoration: none;
+}
+div#sidebar .box-popular-posts .interior ul li img {
+	float: left;
+	padding: 0;
+	border: 0 none;
+}
+div#sidebar .box-popular-posts .interior ul li span.wpp-post-title {
+	display: block;
+	margin: 0 0 0 60px;
+	font-size: 12px;
+	line-height: 16px;
+	font-weight: bold;
+}
+div#sidebar .box-popular-posts .interior ul li span.post-stats {
+	display: block;
+	margin: 2px 0 0 60px;
+	font: bold italic 10px/14px Georgia, serif;
+	color: #999;
+}
+
+
+/* = Facebook Like Box
+--------------------------------------------------- */
+
+div#sidebar .box-fb-like .title {
+	display: none;
+}
+div#sidebar .box-fb-like .interior {
+	padding: 0;
+	background: #fff none;
+}
+
+
+/* = Twitter Status (Latest Tweets)
+--------------------------------------------------- */
+
+div#sidebar .box-tweet ul li {
+	display: block;
+	margin: 0 0 10px 0;
+	padding: 0 0 10px 0;
+	border-bottom: 1px solid #f2f2f2;
+	line-height: 24px;
+}
+div#sidebar .box-tweet ul li a {
+	color: #000;
+}
+div#sidebar .box-tweet ul li a:hover {
+	color: #c66;
+}
+div#sidebar .box-tweet ul abbr {
+	display: block;
+	color: #b8534a;
+}
+
+
+
+/* = Tag Cloud
+--------------------------------------------------- */
+
+div#sidebar .tagcloud {
+	margin-top: 1em;
+}
+
+
+/* = Calendar
+--------------------------------------------------- */
+
+table#wp-calendar {
+	width: 100%;
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+}
+table#wp-calendar caption {
+	font-weight: bold;
+	padding: 5px;
+}
+table#wp-calendar th,
+table#wp-calendar td {
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+	padding: 5px;
+}
+table#wp-calendar td#prev {
+	border-left: 0 none;
+	border-right: 0 none;
+}
+table#wp-calendar td.pad {
+	border-left: 0 none;
+	border-right: 0 none;
+}

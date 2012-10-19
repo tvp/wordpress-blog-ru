@@ -1,0 +1,655 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPTF Freemium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-17 18:32+0800\n"
+"PO-Revision-Date: 2011-03-17 18:32+0800\n"
+"Last-Translator: James Lloyd Atwil <james@paddsolutions.com>\n"
+"Language-Team: Padd Solutions <info@paddsolutions.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Country: Philippines\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:21
+#: ../loop.php:15
+msgid "Not Found"
+msgstr ""
+
+#: ../404.php:24
+#: ../loop.php:18
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#: ../archive.php:14
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:16
+#: ../archive.php:18
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:16
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:18
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:20
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: ../archive.php:22
+#, php-format
+msgid "Posts under %s Category"
+msgstr ""
+
+#: ../archive.php:24
+#, php-format
+msgid "Posts Tagged  &#8216;%s &#8217;"
+msgstr ""
+
+#: ../archive.php:26
+msgid "Blog Archives"
+msgstr ""
+
+#: ../comments.php:9
+#: ../comments.php:76
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:10
+msgid "Tell us what do you think."
+msgstr ""
+
+#: ../comments.php:14
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:20
+msgid "There are no comments on this entry."
+msgstr ""
+
+#: ../comments.php:29
+msgid "Trackbacks"
+msgstr ""
+
+#: ../comments.php:30
+msgid "Websites mentioned my entry."
+msgstr ""
+
+#: ../comments.php:34
+msgid "This post is password protected. Enter the password to view trackbacks."
+msgstr ""
+
+#: ../comments.php:40
+msgid "There are no trackbacks on this entry"
+msgstr ""
+
+#: ../comments.php:52
+msgid "Fill in the form and submit."
+msgstr ""
+
+#: ../comments.php:63
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:63
+#: ../comments.php:67
+msgid "(Required)"
+msgstr ""
+
+#: ../comments.php:67
+msgid "E-mail"
+msgstr ""
+
+#: ../comments.php:67
+#: ../comments.php:71
+msgid "(Optional)"
+msgstr ""
+
+#: ../comments.php:71
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:86
+msgid "Submit"
+msgstr ""
+
+#: ../footer.php:9
+#, php-format
+msgid "Copyright &copy; %1$s. %2$s. All rights reserved."
+msgstr ""
+
+#: ../header.php:35
+msgid "Skip to content"
+msgstr ""
+
+#: ../loop.php:33
+msgid "M. j, Y"
+msgstr ""
+
+#: ../search.php:12
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:11
+#: ../searchform.php:13
+#: ../sidebar.php:28
+msgid "Search"
+msgstr ""
+
+#: ../sidebar.php:5
+msgid "Sidebar"
+msgstr ""
+
+#: ../sidebar.php:11
+msgid "Popular Posts"
+msgstr ""
+
+#: ../sidebar.php:37
+msgid "Facebook Like Box"
+msgstr ""
+
+#: ../sidebar.php:59
+msgid "Sponsors"
+msgstr ""
+
+#: ../single.php:35
+msgid "Share Our Posts"
+msgstr ""
+
+#: ../single.php:36
+msgid "Share this post through social bookmarks."
+msgstr ""
+
+#: ../yarpp-template-thumbnail.php:10
+msgid "Related Posts"
+msgstr ""
+
+#: ../yarpp-template-thumbnail.php:11
+msgid "You may like our other posts."
+msgstr ""
+
+#: ../yarpp-template-thumbnail.php:34
+msgid "No related posts."
+msgstr ""
+
+#: ../administration/options-functions.php:8
+msgid "Favicon URL"
+msgstr ""
+
+#: ../administration/options-functions.php:9
+msgid "The URL where your favicon is located. Must start with <code>http://</code> or <code>https://</code>."
+msgstr ""
+
+#: ../administration/options-functions.php:14
+msgid "Show Trackbacks"
+msgstr ""
+
+#: ../administration/options-functions.php:15
+msgid "Tick this box to render the trackbacks."
+msgstr ""
+
+#: ../administration/options-functions.php:23
+msgid "Enable Slideshow"
+msgstr ""
+
+#: ../administration/options-functions.php:24
+msgid "Tick this box to enable the slideshow."
+msgstr ""
+
+#: ../administration/options-functions.php:29
+msgid "Slideshow Category"
+msgstr ""
+
+#: ../administration/options-functions.php:30
+msgid "The category you want to assign for slideshow. The content is located just below the main menu."
+msgstr ""
+
+#: ../administration/options-functions.php:35
+msgid "Number of Slides"
+msgstr ""
+
+#: ../administration/options-functions.php:36
+msgid "The number of slides in a slideshow at a time. The value should be at least 2 or more slides."
+msgstr ""
+
+#: ../administration/options-functions.php:41
+msgid "Slideshow Effect"
+msgstr ""
+
+#: ../administration/options-functions.php:42
+msgid "Effect to be shown during the transition of slides."
+msgstr ""
+
+#: ../administration/options-functions.php:44
+msgid "None"
+msgstr ""
+
+#: ../administration/options-functions.php:45
+msgid "Fade"
+msgstr ""
+
+#: ../administration/options-functions.php:46
+msgid "Grow"
+msgstr ""
+
+#: ../administration/options-functions.php:47
+msgid "Horizontal Scroll"
+msgstr ""
+
+#: ../administration/options-functions.php:48
+msgid "Vertical Scroll"
+msgstr ""
+
+#: ../administration/options-functions.php:49
+msgid "Cover"
+msgstr ""
+
+#: ../administration/options-functions.php:50
+msgid "Uncover"
+msgstr ""
+
+#: ../administration/options-functions.php:51
+msgid "Wipe"
+msgstr ""
+
+#: ../administration/options-functions.php:56
+msgid "Slide Duration"
+msgstr ""
+
+#: ../administration/options-functions.php:57
+msgid "Number of seconds to wait for the slide show to transition."
+msgstr ""
+
+#: ../administration/options-functions.php:62
+msgid "Slide Scroll Speed"
+msgstr ""
+
+#: ../administration/options-functions.php:63
+msgid "Number of milliseconds for the transition of the slide show."
+msgstr ""
+
+#: ../administration/options-functions.php:71
+msgid "Tracker Code 1"
+msgstr ""
+
+#: ../administration/options-functions.php:72
+msgid "A tracker code to be placed inside the <code>&lt;head&gt;</code> tag."
+msgstr ""
+
+#: ../administration/options-functions.php:77
+msgid "Tracker Code 2"
+msgstr ""
+
+#: ../administration/options-functions.php:78
+msgid "A tracker code to be placed just after the opening <code>&lt;body&gt;</code> tag."
+msgstr ""
+
+#: ../administration/options-functions.php:83
+msgid "Tracker Code 3"
+msgstr ""
+
+#: ../administration/options-functions.php:84
+msgid "A tracker code to be placed just before the closing <code>&lt;body&gt;</code> tag."
+msgstr ""
+
+#: ../administration/options-functions.php:92
+msgid "Facebook Username or URL"
+msgstr ""
+
+#: ../administration/options-functions.php:93
+msgid "Your <a href=\"http://www.facebook.com\">Facebook</a> username. Please note that user name <em>does not mean</em> your e-mail address. <a href=\"http://www.facebook.com/help.php?page=897\">Read the Q&amp;A</a> for more info."
+msgstr ""
+
+#: ../administration/options-functions.php:98
+msgid "Feedburner Username"
+msgstr ""
+
+#: ../administration/options-functions.php:99
+msgid "Your user name in Feedburner."
+msgstr ""
+
+#: ../administration/options-functions.php:104
+msgid "Twitter Username"
+msgstr ""
+
+#: ../administration/options-functions.php:105
+msgid "Your <a href=\"http://twitter.com\">Twitter</a> user name. You may leave it blank if you don't have one but we recommend to <a href=\"http://twitter.com/signup\">create an account</a>."
+msgstr ""
+
+#: ../administration/options-functions.php:113
+msgid "Number of Pages to Show"
+msgstr ""
+
+#: ../administration/options-functions.php:114
+msgid "The number of pages to show in the page navigation at a time."
+msgstr ""
+
+#: ../administration/options-functions.php:119
+msgid "Number of Large Page Numbers to Show"
+msgstr ""
+
+#: ../administration/options-functions.php:120
+msgid "Larger page numbers are in additional to the default page numbers. It is useful for authors who is paginating through many posts.<br />For example, page navigation will display: Pages 1, 2, 3, 4, 5, 10, 20, 30, 40, 50.<br />Enter 0 to disable. "
+msgstr ""
+
+#: ../administration/options-functions.php:125
+msgid "Show Larger Page Numbers in Multiples of"
+msgstr ""
+
+#: ../administration/options-functions.php:126
+msgid "If mutiple is in 5, it will show: 5, 10, 15, 20, 25. If mutiple is in 10, it will show: 10, 20, 30, 40, 50."
+msgstr ""
+
+#: ../administration/options-functions.php:134
+msgid "Sidebar Ad Space (300 &times; 250)"
+msgstr ""
+
+#: ../administration/options-functions.php:135
+msgid "Link/Image advertisement code to be placed just below the title of the entry. It can be an HTML code, Google Adsense code or something else."
+msgstr ""
+
+#: ../administration/options-functions.php:165
+#, php-format
+msgid "%s Options"
+msgstr ""
+
+#: ../administration/options-functions.php:194
+#, php-format
+msgid "%s options saved."
+msgstr ""
+
+#: ../administration/options-functions.php:195
+#, php-format
+msgid "%s options reset."
+msgstr ""
+
+#: ../administration/options-ui.php:4
+#, php-format
+msgid "%s Theme Options"
+msgstr ""
+
+#: ../administration/options-ui.php:9
+msgid "About"
+msgstr ""
+
+#: ../administration/options-ui.php:10
+msgid "General"
+msgstr ""
+
+#: ../administration/options-ui.php:11
+msgid "Slideshow"
+msgstr ""
+
+#: ../administration/options-ui.php:12
+msgid "Page Tracker"
+msgstr ""
+
+#: ../administration/options-ui.php:13
+msgid "Social Networking"
+msgstr ""
+
+#: ../administration/options-ui.php:14
+msgid "Page Navigation"
+msgstr ""
+
+#: ../administration/options-ui.php:15
+msgid "Custom Ads"
+msgstr ""
+
+#: ../administration/options-ui.php:19
+msgid "About The Theme"
+msgstr ""
+
+#: ../administration/options-ui.php:20
+msgid "Palladiumize is a freemium WordPress theme. This special WordPress theme is packed with a better framework, an admin options panel and an awesome design to boot. Download more <a href=\"http://www.paddsolutions.com\">free WordPress Themes</a>."
+msgstr ""
+
+#: ../administration/options-ui.php:21
+msgid "Donate To Us"
+msgstr ""
+
+#: ../administration/options-ui.php:22
+msgid "Donations are very welcome, any amount counts. Proceeds goes to the development of more freemium WordPress themes."
+msgstr ""
+
+#: ../administration/options-ui.php:29
+msgid "Subscribe To Us"
+msgstr ""
+
+#: ../administration/options-ui.php:30
+msgid "To get our latest updates, follow us at <a href=\"http://twitter.com/paddsolutions\" target=\"_blank\">Twitter</a>, be our <a href=\"http://www.facebook.com/paddsolutions\" target=\"_blank\">Facebook</a> fan or subscribe to our <a href=\"http://feeds.feedburner.com/paddsolutions\" target=\"_blank\">RSS</a> feed."
+msgstr ""
+
+#: ../administration/options-ui.php:31
+msgid "Get In Touch"
+msgstr ""
+
+#: ../administration/options-ui.php:32
+msgid "We love to hear your thoughts. Feel free to <a href=\"http://www.paddsolutions.com/contact-us/\" target=\"_blank\">contact us</a> should you need customization support, project quotations, advertisement proposals or just anything under the sun."
+msgstr ""
+
+#: ../administration/options-ui.php:33
+msgid "Disclaimer"
+msgstr ""
+
+#: ../administration/options-ui.php:34
+msgid "Our themes are provided \"as is\" without warranty of any kind, either expressed or implied. We are not responsible for any damage while using this theme, use it at your own risk."
+msgstr ""
+
+#: ../administration/options-ui.php:38
+msgid "General Options"
+msgstr ""
+
+#: ../administration/options-ui.php:39
+#, php-format
+msgid "General options for %s theme to work."
+msgstr ""
+
+#: ../administration/options-ui.php:50
+#: ../administration/options-ui.php:68
+#: ../administration/options-ui.php:86
+#: ../administration/options-ui.php:104
+#: ../administration/options-ui.php:122
+#: ../administration/options-ui.php:140
+msgid "Save Settings"
+msgstr ""
+
+#: ../administration/options-ui.php:56
+msgid "Slideshow Options"
+msgstr ""
+
+#: ../administration/options-ui.php:57
+#, php-format
+msgid "Slideshow options for %s theme."
+msgstr ""
+
+#: ../administration/options-ui.php:74
+msgid "Page Tracker Options"
+msgstr ""
+
+#: ../administration/options-ui.php:75
+#, php-format
+msgid "Page tracker options for %s theme."
+msgstr ""
+
+#: ../administration/options-ui.php:92
+msgid "Social Networking Options"
+msgstr ""
+
+#: ../administration/options-ui.php:93
+#, php-format
+msgid "Social networking options options for %s theme."
+msgstr ""
+
+#: ../administration/options-ui.php:110
+msgid "Page Navigation Options"
+msgstr ""
+
+#: ../administration/options-ui.php:111
+#, php-format
+msgid "Page navigation options for %s theme."
+msgstr ""
+
+#: ../administration/options-ui.php:128
+msgid "Custom Advertisement Options"
+msgstr ""
+
+#: ../administration/options-ui.php:129
+#, php-format
+msgid "Custom advertisement options for %s theme."
+msgstr ""
+
+#: ../includes/class-input.php:204
+msgid "- Select -"
+msgstr ""
+
+#: ../includes/class-pagination.php:65
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: ../includes/class-pagination.php:72
+msgid "&laquo; First"
+msgstr ""
+
+#: ../includes/class-pagination.php:83
+msgid "&laquo; Prev"
+msgstr ""
+
+#: ../includes/class-pagination.php:95
+msgid "Next &raquo;"
+msgstr ""
+
+#: ../includes/class-pagination.php:105
+msgid "Last &raquo;"
+msgstr ""
+
+#: ../includes/class-twitter.php:118
+msgid "Twitter settings is not configured."
+msgstr ""
+
+#: ../includes/class-twitter.php:144
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ../includes/class-twitter.php:146
+msgid "Y/m/d"
+msgstr ""
+
+#: ../includes/class-twitter.php:149
+msgid "Y/m/d H:i:s"
+msgstr ""
+
+#: ../includes/class-widgets.php:22
+msgid "Subscribe"
+msgstr ""
+
+#: ../includes/class-widgets.php:54
+msgid "Social Network"
+msgstr ""
+
+#: ../includes/functions.php:32
+#, php-format
+msgid "<a href=\"%s\">Fan Facebook</a>"
+msgstr ""
+
+#: ../includes/functions.php:35
+#, php-format
+msgid "<a href=\"%s\">Twitter Follow</a>"
+msgstr ""
+
+#: ../includes/functions.php:38
+#, php-format
+msgid "<a href=\"%s\">RSS Subscribe</a>"
+msgstr ""
+
+#: ../includes/functions.php:230
+msgid "F j, Y"
+msgstr ""
+
+#: ../includes/functions.php:235
+msgid "no comments"
+msgstr ""
+
+#: ../includes/functions.php:237
+#, php-format
+msgid "%s comments"
+msgstr ""
+
+#: ../includes/functions.php:239
+msgid "1 comment"
+msgstr ""
+
+#: ../includes/functions.php:273
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ../includes/functions.php:287
+#: ../includes/functions.php:292
+msgid "Blogroll"
+msgstr ""
+
+#: ../includes/functions.php:288
+#: ../includes/functions.php:298
+msgid "Archives"
+msgstr ""
+
+#: ../includes/functions.php:289
+#: ../includes/functions.php:304
+msgid "Categories"
+msgstr ""
+
+#: ../includes/functions.php:351
+#, php-format
+msgid "%s says:"
+msgstr ""
+
+#: ../includes/functions.php:364
+msgid "Edit"
+msgstr ""
+
+#: ../includes/functions.php:418
+#, php-format
+msgid "by <span class=\"author\">%1$s</span> on %2$s"
+msgstr ""
+
+#: ../includes/functions.php:420
+msgid "0 Comments"
+msgstr ""
+
+#: ../includes/functions.php:420
+msgid "1 Comment"
+msgstr ""
+
+#: ../includes/functions.php:420
+msgid "% Comments"
+msgstr ""
+
+#: ../includes/functions.php:438
+msgid "Share"
+msgstr ""
+
+#: ../includes/setup.php:23
+msgid "Main Menu"
+msgstr ""
+
+#: ../js/frontend.js.php:73
+#: ../js/frontend.js.php:74
+msgid "Enter keywords"
+msgstr ""
+
